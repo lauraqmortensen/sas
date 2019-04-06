@@ -1,0 +1,30 @@
+# Matching cases and controls using SAS® software
+
+This code is written for SAS software and designed for matching controls to cases. The code ensures that the controls are only used once. The code includes a test to see if any cases have not received the desired number of controls. For a thorough description of the code and its utility, please refer to the article “Matching cases and controls using SAS® software”, currently under review with Frontiers journal. 
+
+## Getting Started
+
+These instructions will get you a copy of the code up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+The code has been tested on and works with SAS version 9.4 and the free SAS University Edition. You need to install either of these programs on your computer to run the code.
+
+## Running the tests
+
+The code is found in the file called ‘code’. You need to copy and paste the code into a SAS program editor on your computer in order to run it. There are comments in the code. They are placed within /**/. It is recommended to read these comments for a better understanding and use of the code.
+If you need to test the code, you can run the test data and code contained in the document ‘test code’. This document also contains a result table from running the code with the test data. To see the log for running the code with the test data, please see the document ‘Log test data’.
+In the document ‘extra’, you will find an example of adding an extra variable and the corresponding result. The log for this is found in the document ‘Log extra’.
+
+## Built With
+
+* SAS software, Version 9.4
+
+## Authors
+
+* **Laura Quitzau Mortensen, Kristoffer Andresen, Jakob Burcharth, Hans-Christian Pommergaard, Jacob Rosenberg** 
+
+## Acknowledgments
+
+* This code is a revised version of a matching program by Mounib and Satchi (Mounib EL, Satchi T. Automating the selection of controls in case-control studies. Proceedings of the Twenty-Fifth Annual SAS® Users Group International Conference (2000)).
+
