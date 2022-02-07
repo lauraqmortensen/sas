@@ -1,6 +1,6 @@
 # Matching cases and controls using SAS® software
 
-This code is written for SAS software and designed for matching controls to cases. The code ensures that the controls are only used once. The code includes a test to see if any cases have not received the desired number of controls. For a thorough description of the code and its utility, please refer to the article “Matching cases and controls using SAS® software”, currently under review with Frontiers journal. 
+This code is written for SAS software and designed for matching controls to cases. The code ensures that the controls are only used once. The code includes a test to see if any cases have not received the desired number of controls. For a thorough description of the code and its utility, please refer to the article “Matching cases and controls using SAS® software” (Mortensen LQ, Andresen K, Burcharth J, Pommergaard HC, Rosenberg J. Matching Cases and Controls Using SAS® Software. Front Big Data. 2019 May 8;2:4. doi: 10.3389/fdata.2019.00004.)  
 
 ## Getting Started
 
